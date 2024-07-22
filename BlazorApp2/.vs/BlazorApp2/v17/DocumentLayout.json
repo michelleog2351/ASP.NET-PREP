@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|c:\\users\\oguna\\onedrive\\desktop\\asp.net-prep\\blazorapp2\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|c:\\users\\oguna\\onedrive\\desktop\\asp.net-prep\\blazorapp2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|c:\\users\\oguna\\onedrive\\desktop\\asp.net-prep\\blazorapp2\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T22:52:14.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T21:52:16.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-22T15:42:22.784Z",
               "EditorCaption": ""
