@@ -1,13 +1,13 @@
-﻿<button @onclick="OnClick">
+<button @onclick="OnClick">
 	Click me!
 </button>
- 
+
 @code {
 	[Parameter]
-	public EventCallback<MouseEventArgs> OnClick { get; set;}
+	public EventCallback<MouseEventArgs> OnClick { get; set; }
 
 	// private Task OnButtonClick(MouseEventArgs e)
 	// {
 	// 	return OnClick.InvokeAsync(e);
-	// }
+		// }
 }

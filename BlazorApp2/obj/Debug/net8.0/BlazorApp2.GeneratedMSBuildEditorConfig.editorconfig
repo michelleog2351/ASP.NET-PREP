@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\oguna\OneDrive\Desktop\ASP.NET-PREP\BlazorApp2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/oguna/OneDrive/Desktop/ASP.NET-PREP/BlazorApp2/Components/App.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+[C:/Users/oguna/OneDrive/Desktop/ASP.NET-PREP/BlazorApp2/Components/Pages/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/oguna/OneDrive/Desktop/ASP.NET-PREP/BlazorApp2/Components/Pages/Counter.razor]
