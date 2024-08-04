@@ -8,7 +8,7 @@
 
 <p role="status">Current count: @currentCount</p>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<button class="btn btn-primary" @onclick="() => currentCount+=2">Click me</button>
 
 <p>InitialCount=@InitialCount</p>
 
@@ -23,8 +23,25 @@
     [Parameter]
     public int InitialCount { get; set; }
 
+    // Synchronous method
+    // Execution: It executes all its operations sequentially and doesn't return control to the caller until all the work is completed.
+    // Blocking: The method completes the increment operation immediately. If called within a thread, it will block the thread until it finishes the operation
+    // Use Case: Suitable for simple, quick operations where waiting, or doing things asynchronously is not necessary
     private void IncrementCount()
     {
+        currentCount++;
+    }
+
+    // Asynchronous method
+    // Execution: It can perform operations without blocking the calling thread
+    // Awaiting and Non-Blocking: The "await Task.Delay(1000)" introduces a 1sec delay allowing the control to return to the caller, allowing other operations to run
+    // i.e. 'await' keyword pauses the method execution until the awaited task (1000 milisecs) completes without blocking the calling thread
+    // Concurrency: Asynchronous methods are useful for I/O-bound operations such as reading from a file, making network requests, or delaying actions where you don't want to block the thread.
+    // It enables the application to remain responsive while waiting for the task to complete
+    // Return Type: Asynchronous methods often return a Task or Task<T>, allowing the caller to await their completion
+    async Task IncrementCountAsync()
+    {
+        await Task.Delay(1000);
         currentCount++;
     }
 }

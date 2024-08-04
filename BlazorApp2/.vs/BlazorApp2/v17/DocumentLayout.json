@@ -3,36 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|c:\\users\\oguna\\onedrive\\desktop\\asp.net-prep\\blazorapp2\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|c:\\users\\oguna\\onedrive\\desktop\\asp.net-prep\\blazorapp2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|c:\\users\\oguna\\onedrive\\desktop\\asp.net-prep\\blazorapp2\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|c:\\users\\oguna\\onedrive\\desktop\\asp.net-prep\\blazorapp2\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|solutionrelative:components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|c:\\users\\oguna\\onedrive\\desktop\\asp.net-prep\\blazorapp2\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|c:\\users\\oguna\\onedrive\\desktop\\asp.net-prep\\blazorapp2\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|c:\\users\\oguna\\onedrive\\desktop\\asp.net-prep\\blazorapp2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|c:\\users\\oguna\\onedrive\\desktop\\asp.net-prep\\blazorapp2\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3E31C08A-95E2-434F-8705-E3E1E0618079}|BlazorApp2.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,102 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T16:44:16.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T16:44:03.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\_Imports.razor",
-              "RelativeToolTip": "Components\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T16:43:49.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\App.razor",
-              "RelativeDocumentMoniker": "Components\\App.razor",
-              "ToolTip": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\App.razor",
-              "RelativeToolTip": "Components\\App.razor",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T16:41:45.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Routes.razor",
-              "RelativeDocumentMoniker": "Components\\Routes.razor",
-              "ToolTip": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Routes.razor",
-              "RelativeToolTip": "Components\\Routes.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-24T16:39:38.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Pages\\Weather.razor",
-              "RelativeToolTip": "Components\\Pages\\Weather.razor",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAACkAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T22:52:14.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
               "ToolTip": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Pages\\Counter.razor",
               "RelativeToolTip": "Components\\Pages\\Counter.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-22T21:52:16.468Z",
+              "WhenOpened": "2024-08-04T16:58:46.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\oguna\\OneDrive\\Desktop\\ASP.NET-PREP\\BlazorApp2\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-22T15:42:22.784Z",
               "EditorCaption": ""
