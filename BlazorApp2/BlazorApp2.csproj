@@ -6,4 +6,20 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="Components\MyButton.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Components\MyButton.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Components\MyButton.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Components\MyButton.razor" />
+  </ItemGroup>
+
 </Project>

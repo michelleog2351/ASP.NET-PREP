@@ -1,0 +1,8 @@
+﻿<button @onclick="OnButtonClick">
+	Click me!
+</button>
+
+@code {
+	[Parameter]
+	public EventCallback<MouseEventArgs> OnClick { get; set;}
+}
